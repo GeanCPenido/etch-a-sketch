@@ -1,14 +1,7 @@
 #container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    align-content: space-between;
-}
-
-.divGrid {
-    border: 5px solid black;
-    width: 5%;
-    margin: 0.2%;
+    height: 600px;
 }
 
 .divGrid:hover {
